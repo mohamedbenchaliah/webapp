@@ -20,3 +20,4 @@ after_success:
   - docker push mohamedbenchaliah/multi-nginx
   - docker push mohamedbenchaliah/multi-server
   - docker push mohamedbenchaliah/multi-worker
+  #test
